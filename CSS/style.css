@@ -1,0 +1,29 @@
+/*******************TAG SELECTORS****************/
+
+h1 {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/*********************CLASS SELECTORS*************/
+.chicken {
+  background-color: greenyellow;
+}
+.dick {
+  background-color: red;
+  border-radius: 100%;
+}
+
+/*********************ID SELECTORS*************/
+#Heading {
+  color: rgb(18, 231, 142);
+  font-size: 130px;
+}
+
+#croissant {
+  color: rgb(145, 125, 125);
+}
